@@ -21,7 +21,7 @@ body {
   grid-template-areas:
     "header header header"
     "contenido contenido sidebar"
-    "widget-1 widget-2 sidebar"
+    "widget-1 widget-2 widget-2"
     "footer footer footer";
 }
 .contenedor .header {
@@ -51,20 +51,20 @@ body {
 }
 /* estilos para el contenedor sidebar */
 .contenedor .sidebar {
-  grid-column: 3 / 4;
-  background:#1b2631;
-  color: #fff;
+  /* grid-column: 3 / 4;
+  background:#ffffff;
+  color: rgb(0, 0, 0);
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100px;
+  min-height: 100px; */
 }
 /* estilos para el contenedor widgets */
 .contenedor .widget-1,
 .contenedor .widget-2 {
-  background: #274666;
-  color: #fff;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
   height: 100px;
   text-align: center;
   display: flex;
@@ -94,7 +94,8 @@ body {
       "header header header"
       "contenido contenido contenido"
       "sidebar sidebar sidebar"
-      "widget-1 widget-1 widget-2"
+      "widget-1 widget-1 widget-1"
+      "widget-2 widget-2 widget-2"
       "footer footer footer";
   }
 }
