@@ -91,13 +91,13 @@ body {
 /* mediaquerys */
 @media screen and (max-width: 768px) {
   .portada{
-    width: 566px;
-    height: 162px;
+    width: 650px;
+    height: 350px;
     margin: 0 auto;
   }
   .portada .img-responsive{
-    width: 566px;
-    height: 162px;
+    width: 650px;
+    height: 350px;
   }
   .contenedor {
     grid-template-areas:
