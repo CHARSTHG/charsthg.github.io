@@ -51,16 +51,16 @@ body {
   text-align: justify;
 }
 /* estilos para el contenedor sidebar */
-.contenedor .sidebar {
-  /* grid-column: 3 / 4;
+/* .contenedor .sidebar {
+  grid-column: 3 / 4;
   background:#ffffff;
   color: rgb(0, 0, 0);
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100px; */
-}
+  min-height: 100px;
+} */
 /* estilos para el contenedor widgets */
 .contenedor .widget-1,
 .contenedor .widget-2 {
