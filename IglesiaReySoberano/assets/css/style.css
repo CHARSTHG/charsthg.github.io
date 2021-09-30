@@ -89,6 +89,10 @@ body {
 
 /* mediaquerys */
 @media screen and (max-width: 768px) {
+  .portada{
+    width: 566px;
+    height: 162px;
+  }
   .contenedor {
     grid-template-areas:
       "header header header"
