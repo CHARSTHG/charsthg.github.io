@@ -48,6 +48,7 @@ body {
   background: #fff;
   padding: 20px;
   border-radius: 5px;
+  text-align: justify;
 }
 /* estilos para el contenedor sidebar */
 .contenedor .sidebar {
@@ -90,6 +91,11 @@ body {
 /* mediaquerys */
 @media screen and (max-width: 768px) {
   .portada{
+    width: 566px;
+    height: 162px;
+    margin: 0 auto;
+  }
+  .portada .img-responsive{
     width: 566px;
     height: 162px;
   }
