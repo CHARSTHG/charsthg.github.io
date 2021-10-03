@@ -62,7 +62,7 @@ body {
   min-height: 100px;
 } */
 /* estilos para el contenedor widgets */
-.contenedor .widget-1,
+/* .contenedor .widget-1,
 .contenedor .widget-2 {
   background: #ffffff;
   color: rgb(0, 0, 0);
@@ -71,7 +71,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
 /* estilos para el contenedor footer */
 .contenedor .footer {
   background: #ffffff;
