@@ -91,25 +91,25 @@ body {
 
 /* mediaquerys */
 @media screen and (max-width: 768px) {
-.portada {
-    width: 500px;
-    height: 300px;
-    margin: 0 auto;
-}
-.portada .img-responsive {
-    width: 500px;
-    height: 300px;
-    border-radius: 10px;
-}
-.contenedor {
-    grid-template-areas:
-        "header header header"
-        "contenido contenido contenido"
-        "sidebar sidebar sidebar"
-        "widget-1 widget-1 widget-1"
-        "widget-2 widget-2 widget-2"
-        "footer footer footer";
-}
+    .portada {
+        width: 500px;
+        height: 300px;
+        margin: 0 auto;
+    }
+    .portada .img-responsive {
+        width: 500px;
+        height: 300px;
+        border-radius: 10px;
+    }
+    .contenedor {
+        grid-template-areas:
+            "header header header"
+            "contenido contenido contenido"
+            "sidebar sidebar sidebar"
+            "widget-1 widget-1 widget-1"
+            "widget-2 widget-2 widget-2"
+            "footer footer footer";
+    }
 }
 /* srollTop */
 #btn-back-to-top {
