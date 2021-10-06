@@ -89,6 +89,16 @@ body {
     background: #1b2631;
 }
 
+.portada .img-responsive{
+    border-radius: 10px;
+}
+.sidebar .radio-redondo{
+    border-radius: 10px;
+}
+.sidebar .maps{
+    border-radius: 10px;
+}
+
 /* mediaquerys */
 @media screen and (max-width: 768px) {
     .portada {
