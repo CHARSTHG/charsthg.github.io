@@ -1,0 +1,10 @@
+.titulo{
+    text-align: center;
+}
+.comida{
+    margin: 5%;
+}
+.bi-star-fill,
+.bi-star-half{
+    color: #ffee00;
+}
