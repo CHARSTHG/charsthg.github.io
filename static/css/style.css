@@ -1,17 +1,17 @@
-.titulo{
+.titulo {
     text-align: center;
 }
-.comida{
+.comida {
     margin: 5%;
 }
 .bi-star-fill,
-.bi-star-half{
+.bi-star-half {
     color: #ffee00;
 }
-.banner{
+.banner {
     padding: 1em;
     align-content: center;
 }
-.img-banner{
+.img-banner {
     border-radius: 5px;
 }
