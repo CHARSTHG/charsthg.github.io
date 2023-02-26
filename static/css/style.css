@@ -8,3 +8,10 @@
 .bi-star-half{
     color: #ffee00;
 }
+.banner{
+    padding: 1em;
+    align-content: center;
+}
+.img-banner{
+    border-radius: 5px;
+}
